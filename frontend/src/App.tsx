@@ -67,7 +67,7 @@ const App: React.FC = () => {
               <span className="hero-dates">April 24th - 25th, 2026</span>
             </p>
             <div className="hero-actions">
-              <a href="https://forms.gle/YOUR_FORM_LINK" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Register</a>
+              <a href="https://unstop.com/p/symbiot-2026-vidyavardhaka-college-of-engineering-mysore-1652707" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Register</a>
               <a href="#about" className="btn btn-secondary">Learn More</a>
             </div>
           </div>
@@ -509,7 +509,7 @@ const App: React.FC = () => {
           <div className="footer-col footer-col-links">
             <h4 className="footer-heading">Useful Links</h4>
             <ul className="footer-link-list">
-              <li><a href="https://forms.gle/YOUR_FORM_LINK" target="_blank" rel="noopener noreferrer">Register Now</a></li>
+              <li><a href="https://unstop.com/p/symbiot-2026-vidyavardhaka-college-of-engineering-mysore-1652707" target="_blank" rel="noopener noreferrer">Register Now</a></li>
               <li><a href="#about">About Us</a></li>
               <li><a href="#terms">Terms & Conditions</a></li>
               <li><a href="#faq">FAQ</a></li>
