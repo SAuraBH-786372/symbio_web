@@ -46,7 +46,7 @@ const App: React.FC = () => {
             <a href="#sponsors" className="nav-link">Sponsors</a>
             <a href="#faq" className="nav-link">FAQ</a>
             <a href="#contact" className="nav-link">Contact</a>
-            <a href="#register" className="btn btn-primary" style={{ padding: '0.5rem 1.5rem', fontSize: '0.875rem' }}>Register</a>
+            <a href="https://forms.gle/YOUR_FORM_LINK" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ padding: '0.5rem 1.5rem', fontSize: '0.875rem' }}>Register</a>
           </div>
 
           <button className="mobile-menu-btn">☰</button>
@@ -67,7 +67,7 @@ const App: React.FC = () => {
               <span className="hero-dates">April 24th - 25th, 2026</span>
             </p>
             <div className="hero-actions">
-              <a href="#register" className="btn btn-primary">Register</a>
+              <a href="https://forms.gle/YOUR_FORM_LINK" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Register</a>
               <a href="#about" className="btn btn-secondary">Learn More</a>
             </div>
           </div>
@@ -509,7 +509,7 @@ const App: React.FC = () => {
           <div className="footer-col footer-col-links">
             <h4 className="footer-heading">Useful Links</h4>
             <ul className="footer-link-list">
-              <li><a href="#register">Register Now</a></li>
+              <li><a href="https://forms.gle/YOUR_FORM_LINK" target="_blank" rel="noopener noreferrer">Register Now</a></li>
               <li><a href="#about">About Us</a></li>
               <li><a href="#terms">Terms & Conditions</a></li>
               <li><a href="#faq">FAQ</a></li>
@@ -532,7 +532,7 @@ const App: React.FC = () => {
               <a href="#location" className="social-icon" aria-label="Location">
                 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z" /><circle cx="12" cy="10" r="3" /></svg>
               </a>
-              <a href="#instagram" className="social-icon" aria-label="Instagram">
+              <a href="https://instagram.com/YOUR_HANDLE" target="_blank" rel="noopener noreferrer" className="social-icon" aria-label="Instagram">
                 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="20" height="20" x="2" y="2" rx="5" ry="5" /><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" /><line x1="17.5" x2="17.51" y1="6.5" y2="6.5" /></svg>
               </a>
             </div>
